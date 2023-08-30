@@ -1,1 +1,1 @@
-Just a trial brach to learn Git and GitHub.
+Just a trial branch to learn Git and GitHub.
